@@ -3,7 +3,7 @@
 
 int main(){
 
-  int arr[]={3,10,8,5,7,4,9,1,2,6};
+  int arr[]={3,10,8,7,5,4,9,1,2,6};
   int number;
   int i = 0;
 
