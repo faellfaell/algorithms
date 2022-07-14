@@ -3,13 +3,13 @@
 
 int main(){
 
-  int arr[]={3,10,8,7,5,4,9,1,2,6};
-  int number;
+  int lista[]={3,10,8,7,5,4,9,1,2,6};
+  int numero;
   int i = 0;
 
   printf("digite um numero de 1 a 10\n");
-  scanf("%i", &number);
-  while (number != arr[i]){    
+  scanf("%i", &numero);
+  while (numero != lista[i]){    
     if(i == 9){
     printf("o numero digitado nao pertence a lista\n");
       return 1;
@@ -17,7 +17,7 @@ int main(){
    i++; 
   };
   
-  while (number != arr[i]) {
+  while (nummero != lista[i]) {
     i++;
   }
   printf("\n%i pertence a lista\n", arr[i]);
