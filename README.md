@@ -1,2 +1,2 @@
 # projects
-my algorithms
+some of my projects
