@@ -1,0 +1,32 @@
+html {
+  background-color: #1f1f1f;
+}
+
+.screen {
+  background-color: #080808;
+  margin: auto;
+  border-style: solid;
+  border-color: #424242;
+  border-width: 10px;
+  display: flex;
+  align: center;
+  width: 400px;
+  height: 800px;
+}
+
+.block {
+  position: relative;
+  background-color: yellow;
+  width: 36px;
+  height: 36px;
+  margin: auto;
+}
+
+.tetrI {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 40px;
+  height: 160px;
+  background-color: red;
+}

@@ -11,7 +11,7 @@ int main(){
 
   printf("select a number:\n");
   scanf("%i", &num);
-
+  
   while(num != arr[mid])
   {
     if(low > high)
