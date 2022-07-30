@@ -7,7 +7,6 @@ var moveY = 0;
 var a = 0;
 var b = 0;
 var rotate = 0;
-var c;
 
 function right()
 {
