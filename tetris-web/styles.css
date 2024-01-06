@@ -1,0 +1,36 @@
+html 
+{
+  background-color: #292929;
+}
+
+#tela
+{
+  width: 295px;
+  height: 595px;
+  display: flex;
+}
+
+#prox
+{
+  margin-left: 5px;
+  margin-bottom: 500px;
+  width: 95px;
+  height: 95px;
+}
+
+.container
+{
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.box
+{
+  border: 2px solid blue;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
